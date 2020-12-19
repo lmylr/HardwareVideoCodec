@@ -1358,7 +1358,7 @@ void WebRtcSpl_SynthesisQMF(const int16_t* low_band,
 //
 // Algorithm:
 //
-// An iterative 4 cylce/bit routine
+// An iterative 4 cycle/bit routine
 //
 // Input:
 //      - value     : Value to calculate sqrt of
